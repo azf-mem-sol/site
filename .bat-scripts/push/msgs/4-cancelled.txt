@@ -1,0 +1,9 @@
+/--------------------------------------------------------------------------\
+|                                                                          |
+|         L’opération de modification a été annulée. Si tu veux la         |
+|         redémarrer, exécute le script _sauvegarde.bat à nouveau.         |
+|                                                                          |
+|              Presse « Entrée » pour sortir de ce programme.              |
+|                                                                          |
+\--------------------------------------------------------------------------/
+

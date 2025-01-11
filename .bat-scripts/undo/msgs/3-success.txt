@@ -1,0 +1,12 @@
+/--------------------------------------------------------------------------\
+|                                                                          |
+|    L’opération a été exécutée avec succès. Le dossier est maintenant     |
+|         restauré à l’état dans lequel il était avant le dernier          |
+|                             enregistrement.                              |
+|                                                                          |
+|   Cette modification est locale — elle n’a pas été enregistrée sur le    |
+|    site ! Si tu veux enregistrer l’opération de marche arrière que tu    |
+|          viens d’effectuer, exécute le script _enregistrer.bat.          |
+|                                                                          |
+\--------------------------------------------------------------------------/
+

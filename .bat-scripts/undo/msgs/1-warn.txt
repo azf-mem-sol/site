@@ -1,0 +1,15 @@
+/--------------------------------------------------------------------------\
+|                                                                          |
+|    ATTENTION ! Tu es sur le point d’annuler la dernière modification     |
+|   et de revenir à la version précédente du site (donc l’avant-dernière   |
+|       fois que quelqu’un a exécuté le programme _enregistrer.bat)        |
+|                                                                          |
+|          CETTE OPÉRATION EST DANGEREUSE !!! Elle peut supprimer          |
+|         des modifications de façon définitive, et doit donc être         |
+|      exécutée en dernier recours, et avec le plus grand des soins.       |
+|                                                                          |
+|        Es-tu sûr·e (à 100%) de vouloir effectuer cette manœuvre ?        |
+|                                                                          |
+\--------------------------------------------------------------------------/
+
+Tape « oui » pour confirmer, « non » pour annuler :

@@ -1,0 +1,10 @@
+/--------------------------------------------------------------------------\
+|                                                                          |
+|       Terminé ! Le site a été téléchargé, et ton dossier local est       |
+|      maintenant à jour avec les dernières modifications qui ont été      |
+|    enregistrées. Tu peux maintenant éditer le site en toute sécurité.    |
+|                                                                          |
+|              Presse « Entrée » pour sortir de ce programme.              |
+|                                                                          |
+\--------------------------------------------------------------------------/
+

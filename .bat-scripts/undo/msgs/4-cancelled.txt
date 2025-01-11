@@ -1,0 +1,9 @@
+/--------------------------------------------------------------------------\
+|                                                                          |
+|        L’opération de marche arrière a été annulée. Si tu veux la        |
+|       redémarrer, exécute le script _marche-arrière.bat à nouveau.       |
+|                                                                          |
+|              Presse « Entrée » pour sortir de ce programme.              |
+|                                                                          |
+\--------------------------------------------------------------------------/
+

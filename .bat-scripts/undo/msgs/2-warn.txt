@@ -1,0 +1,17 @@
+/--------------------------------------------------------------------------\
+|                                                                          |
+|                                 STOP !!!                                 |
+|                                                                          |
+|     Cette manipulation est DANGEREUSE. Afin de ne pas l’exécuter par     |
+|        accident, tu dois confirmer que tu es CERTAIN·E à 100% de         |
+|                vouloir ANNULER LE DERNIER ENREGISTREMENT.                |
+|                                                                          |
+|     Cette opération est IRRÉVERSIBLE. Après cette étape, le dernier      |
+|             enregistrement sera effacé de façon permanente.              |
+|                                                                          |
+|           Es-tu sûr·e et certain·e à 100% de vouloir exécuter            |
+|                            cette opération ?                             |
+|                                                                          |
+\--------------------------------------------------------------------------/
+
+Tape « supprimer » pour confirmer, « non » pour annuler :

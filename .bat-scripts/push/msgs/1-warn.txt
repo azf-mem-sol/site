@@ -1,0 +1,9 @@
+/--------------------------------------------------------------------------\
+|                                                                          |
+|      ATTENTION ! Tu es sur le point d’enregistrer tes modifications      |
+|            et de les publier sur le serveur (et sur le site).            |
+|                    Es-tu sûr·e de vouloir continuer ?                    |
+|                                                                          |
+\--------------------------------------------------------------------------/
+
+Tape « oui » pour confirmer, « non » pour annuler :

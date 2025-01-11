@@ -1,0 +1,9 @@
+/--------------------------------------------------------------------------\
+|                                                                          |
+|   Tes changements ont été enregistrés et publiés ! Félicitations — ces   |
+|     changements seront visibles sur le site dans 10 minutes environ.     |
+|                                                                          |
+|              Presse « Entrée » pour sortir de ce programme.              |
+|                                                                          |
+\--------------------------------------------------------------------------/
+

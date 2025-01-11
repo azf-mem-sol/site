@@ -1,0 +1,12 @@
+/--------------------------------------------------------------------------\
+|                                                                          |
+|    Tes changements vont maintenant être enregistrés, puis publiés. Tu    |
+|              dois décrire tes changements en quelques mots.              |
+|                                                                          |
+|    IMPORTANT : n’utilise aucun caractère spécial — pas de guillemets,    |
+|      points, virgules, pourcents, etc. etc. — que des lettres, des       |
+|                chiffres, des apostrophes, et des tirets !                |
+|                                                                          |
+\--------------------------------------------------------------------------/
+
+Écris un message court, décrivant les changements que tu as apportés (par exemple : « Ajouté une page pour la randonnée du 12 décembre 2024 ») :
